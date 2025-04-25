@@ -1,76 +1,69 @@
 Senior Project Proposal (Replace with Project Name)
 ===================================================
 
-**Student Name**: Ada Lovelace (put your name here followed by two spaces)  
-**Degree and Major**: B.S. in Cybersecurity (put your name here followed by two spaces)  
-**Project Advisor Name**: Dr. Faulkner (put your name here followed by two spaces)  
-**Expected Graduation Date**: May 2040 (put the correct month and day here)
+**Student Name**: Adonis Pineda  
+**Degree and Major**: B.S. in Cybersecurity   
+**Project Advisor Name**: Dr. Hayes    
+**Expected Graduation Date**: December 2025
 
 
 Problem Statement
 -----------------
 
-The problem statement goes here.
+Online security can be expensive; spedcialists and lawyers are often needed to handle takedowns and data scrubbing and general health.
 
 
 Project Description
 -------------------
 
-The project description goes here.
+This is an online security auditor for a health checklist and provides takedown request forms for free, as well as some link workshop. 
 
 
 Proposed Implementation Language(s) 
 -----------------------------------
 
-Languages go here.
+Javascript, HTML, CSS
 
 
 Libraries, Packages, Development Kits, etc. to be used in the proposed implementation languages(s)
 --------------------------------------------------------------------------------------------------
 
-The supporting libraries go here.
+NodeJS, Electron 
 
 
 Additional Software/Equipment Needed
 ------------------------------------
 
-List any hardware needed and software (e.g., your IDE).
+modern computer, access to Internet, modern browser(for testing)
 
 Personal Motivation
 -------------------
 
-Personal motivation goes here.
+I have been a part of gaming communities on Discord that have been toxic and engaged in "doxxing" wars. My motivator was to empower those who may not know to cover all bases without having to buy subscriptions or spend thousands on specialists. Safety concerns were driving people away because they were afraid it could happen to them. 
 
 Outline of Future Research Efforts
 ----------------------------------
 
-(What do you need to learn or figure out to complete this project? What tasks are you going to do the do that?)
+I need to learn to use Javascript and NodeJS for the scripting. Making small components one at a time will help me connect everything.
 
 Schedule
 --------
+*   Fall 2024 - CSCI 497
+    -   October 20 - brainstorming
+    -   October 27 - researching languages
+    -   November 10 - rough draft due
+    -   November 17 - independent research
+    -   November 20 - Send First-Draft of the Requirements Document to advisor for feedback
 
-(Update the dates and add your tasks by replacing the examples. Remove this note.)
+*   Summer 2025 - Independent/Optional Project Work
+    -   June 1 - bulk development
 
-*   Spring 2039 - CSCI 497
-    -   January 26 - 
-    -   February 9 - 
-    -   February 23 - 
-    -   March 8 - 
-    -   March 22 - Send First-Draft of the Requirements Document to advisor for feedback
-    -   April 5 - 
-
-*   Summer 2040 - Independent/Optional Project Work
-    -   June 1 - 
-
-*   Fall 2039 - CSCI 498
-    -   October 20 - 
-    -   October 27 - 
-    -   November 3 - 
-    -   November 10 - 
-    -   November 17 - 
-    -   November 20 - 
-
-*   Spring 2040 - CSCI 499 (more detail will be added here once you are closer)
+*   Spring 2025 - CSCI 498
+    -   January 17 - proposal due
+    -   February 24 - test plan due
+    -   April 14 - repository and meeting schedule
+      
+*   Fall 2025 - CSCI 499 (more detail will be added here once you are closer)
     -   Weeks 1-4 - Implement test plan
     -   Week 5 - Evaluate test results
     -   Week 6-10 - Apply updates and bug fixes based on the results
